@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio Website <br>🌱 I’m currently learning Data Structures & Algorithms, and Android Studio<br>⚡ Fun fact: I love Coffee!
+🔭 I’m currently working on Swift apps <br>🌱 I’m currently learning Operating Systems, and Swift/SwiftUi<br>⚡ Fun fact: I love Coffee!
 
 
 ## 🌐 Socials:
