@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Swift apps<br>🌱 I’m currently learning Operating Systems and swift<br>⚡ Fun fact i love coffee
+🔭 I’m currently working on my comptia sec+!<br>🌱 I’m currently learning rust<br>⚡ Fun fact i love coffee
 
 
 ## 🌐 Socials:
