@@ -19,5 +19,5 @@ C, C++, Python, Bash
 ![](https://github-contributor-stats.vercel.app/api?username=betim-hodza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## views
-https://komarev.com/ghpvc/?username=BetimHodza&color=blueviolet&style=for-the-badge
+![](https://komarev.com/ghpvc/?username=Betim-Hodza&color=blueviolet&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
