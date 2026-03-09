@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[linkedin](https://www.linkedin.com/in/betim-hodza-17bb46253)
+[linkedin](https://www.linkedin.com/in/betim-hodza-17bb46253) [baytizzel.dev](https://baytizzel.dev/)
 # 💻 Tech Stack:
 C, C++, Python, Bash 
 # 📊 GitHub Stats:
