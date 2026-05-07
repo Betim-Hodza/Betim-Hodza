@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello 
 
 I'm a Cybersecurity, Low Level Programmer and FOSS enjoyer. I turn coffee into ideas ☕
 
