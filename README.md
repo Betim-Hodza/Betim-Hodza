@@ -10,11 +10,11 @@ Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
 ## 💻 tech stack
 
-**languages:** C · C++ · Python · Go · Swift · Bash · JavaScript · Rust 
-**Cybersecurity:** Binary Analysis · SBOMs · Reverse Engineering · CTFs
-**Security & Tools:** Wireshark · nmap · Ghidra · Binwalk · objdump · GDB · Hashcat · Burp Suite
-**Technologies:** Linux / Unix · Git · Electron · SQLite · PostgreSQL · ReactJS · FastAPI · Vue / Nuxt · YOLOv8
-**Interests:** Coffee · FOSS · Systems programming · Video games · Linux ricing
+- **languages:** C · C++ · Python · Go · Swift · Bash · JavaScript · Rust 
+- **Cybersecurity:** Binary Analysis · SBOMs · Reverse Engineering · CTFs
+- **Security & Tools:** Wireshark · nmap · Ghidra · Binwalk · objdump · GDB · Hashcat · Burp Suite
+- **Technologies:** Linux / Unix · Git · Electron · SQLite · PostgreSQL · ReactJS · FastAPI · Vue / Nuxt · YOLOv8
+- **Interests:** Coffee · FOSS · Systems programming · Video games · Linux ricing
 
 ---
 
