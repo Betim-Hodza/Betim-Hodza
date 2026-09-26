@@ -1,15 +1,20 @@
 # Hello 
 
-I'm a Cybersecurity, Low Level Programmer and FOSS enjoyer. I turn coffee into ideas ☕
+Hi, I'm a Cyber Engineer. I like doing systems-level programming, making fun and interesting applications, and CTFs(reverse engineering and binary analysis). I love Linux and use Archon my homeserver, Omarchyon the ThinkPad, and of course have a macbook w/ macOS.
 
-i write about things I learn like programming, some hardware, and cybersecurity. Visit my website at [baytizzel.dev](https://baytizzel.dev)
+Lately that's meant running models on my own hardware (though they're mostly useless), building FPGA state machinesin Quartus, getting better at soldering and trying to get Meshcore onto a Flipper Zero.
+
+Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
 ---
 
 ## 💻 tech stack
 
-**languages:** C · C++ · Python · Bash   
-**Cybersecurity:** Binary analysis · SBOMs · Reverse engineering · CTFs 
+**languages:** C · C++ · Python · Go · Swift · Bash · JavaScript · Rust 
+**Cybersecurity:** Binary Analysis · SBOMs · Reverse Engineering · CTFs
+**Security & Tools:** Wireshark · nmap · Ghidra · Binwalk · objdump · GDB · Hashcat · Burp Suite
+**Technologies:** Linux / Unix · Git · Electron · SQLite · PostgreSQL · ReactJS · FastAPI · Vue / Nuxt · YOLOv8
+**Interests:** Coffee · FOSS · Systems programming · Video games · Linux ricing
 
 ---
 
