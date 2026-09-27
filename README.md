@@ -1,6 +1,6 @@
 Hi, I'm a Cyber Engineer. I like doing systems-level programming, making fun and interesting applications, and CTFs(reverse engineering and binary analysis). I love Linux and use Arch on my homeserver, Omarchy on the ThinkPad, and of course have a macbook w/ macOS.
 
-I sometimes mess with local ai (though they're mostly useless), experimenting with FPGAs, getting better at soldering and trying to get Meshcore onto a Flipper Zero.
+I sometimes mess with local ai (though they're mostly useless), also experimenting with FPGAs, and trying to getting better at soldering.
 
 Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
