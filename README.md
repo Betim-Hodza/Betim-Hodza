@@ -1,8 +1,8 @@
 # Hello 
 
-Hi, I'm a Cyber Engineer. I like doing systems-level programming, making fun and interesting applications, and CTFs(reverse engineering and binary analysis). I love Linux and use Archon my homeserver, Omarchyon the ThinkPad, and of course have a macbook w/ macOS.
+Hi, I'm a Cyber Engineer. I like doing systems-level programming, making fun and interesting applications, and CTFs(reverse engineering and binary analysis). I love Linux and use Arch on my homeserver, Omarchy on the ThinkPad, and of course have a macbook w/ macOS.
 
-Lately that's meant running models on my own hardware (though they're mostly useless), building FPGA state machinesin Quartus, getting better at soldering and trying to get Meshcore onto a Flipper Zero.
+I sometimes mess with local ai (though they're mostly useless), experimenting with FPGAs, getting better at soldering and trying to get Meshcore onto a Flipper Zero.
 
 Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
@@ -10,11 +10,11 @@ Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
 ## 💻 tech stack
 
-- **languages:** C · C++ · Python · Go · Swift · Bash · JavaScript · Rust 
-- **Cybersecurity:** Binary Analysis · SBOMs · Reverse Engineering · CTFs
-- **Security & Tools:** Wireshark · nmap · Ghidra · Binwalk · objdump · GDB · Hashcat · Burp Suite
-- **Technologies:** Linux / Unix · Git · Electron · SQLite · PostgreSQL · ReactJS · FastAPI · Vue / Nuxt · YOLOv8
-- **Interests:** Coffee · FOSS · Systems programming · Video games · Linux ricing
+- **languages:** C, C++, Python, Go, Swift, Bash, JavaScript, Rust 
+- **Cybersecurity:** Binary Analysis, SBOMs, Reverse Engineering, CTFs
+- **Security & Tools:** Wireshark, nmap, Ghidra, Binwalk, objdump, GDB, Hashcat, Burp Suite
+- **Technologies:** Linux / Unix, Git, Electron, SQLite, PostgreSQL, ReactJS, FastAPI, Vue / Nuxt, YOLOv8
+- **Interests:** Coffee, FOSS, Systems programming, Video games, Linux ricing
 
 ---
 
